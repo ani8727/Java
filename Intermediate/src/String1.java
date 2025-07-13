@@ -1,7 +1,3 @@
-import javax.swing.plaf.synth.SynthTextAreaUI;
-import java.lang.foreign.SymbolLookup;
-import java.nio.channels.UnsupportedAddressTypeException;
-import java.util.stream.StreamSupport;
 
 public class String1 {
     public static void main(String[] args) {
